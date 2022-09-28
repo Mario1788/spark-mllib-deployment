@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marionaidoo/Mario/GitHub/spark-mllib-deployment/mlruns/0/bba8ec7412dc43f49cba60f10ba9153b/artifacts
+end_time: 1664135944202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: bba8ec7412dc43f49cba60f10ba9153b
+run_uuid: bba8ec7412dc43f49cba60f10ba9153b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664135911371
+status: 3
+tags: []
+user_id: marionaidoo

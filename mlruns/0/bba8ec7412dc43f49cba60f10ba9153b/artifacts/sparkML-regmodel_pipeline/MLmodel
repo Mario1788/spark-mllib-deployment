@@ -1,0 +1,15 @@
+artifact_path: sparkML-regmodel_pipeline
+flavors:
+  python_function:
+    data: sparkml
+    env: conda.yaml
+    loader_module: mlflow.spark
+    python_version: 3.9.12
+  spark:
+    code: null
+    model_data: sparkml
+    pyspark_version: 3.3.0
+mlflow_version: 1.29.0
+model_uuid: 9830387f30c04d49b337557349e7d070
+run_id: bba8ec7412dc43f49cba60f10ba9153b
+utc_time_created: '2022-09-25 19:58:31.377308'

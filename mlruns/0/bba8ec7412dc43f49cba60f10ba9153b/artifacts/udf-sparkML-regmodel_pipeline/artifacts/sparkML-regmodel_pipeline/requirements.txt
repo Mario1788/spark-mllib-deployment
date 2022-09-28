@@ -1,0 +1,5 @@
+mlflow
+psutil==5.8.0
+pyspark==3.3.0
+scipy==1.7.3
+typing-extensions==4.1.1
